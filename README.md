@@ -1,12 +1,12 @@
-# Twiggy To Do List
+# To Do List with mySQL
 
-#####  Twig and Silex Object Exercise for Epicodus, 8/5/2015
+#####  A To Do list using a mySQL database, 8/17/2015
 
-#### By Ike Mattice and Jenna Navratil
+#### By Ike Mattice, Phil Shannon, Jenna Navratil
 
 ## Description
 
-Allows user to add items to do.  Can delete all items upon completion with one button.
+Allows user to add items to do.  Can delete all items upon completion with one button. Same with categories.
 
 ## Setup
 
@@ -24,10 +24,12 @@ HTML
 Twig
 Silex
 PHP
+mySQL
+PHPUnit
 
 ### Legal
 
-Copyright (c) 2015 Ike Mattice, Jenna Navratil
+Copyright (c) 2015 Ike Mattice, Jenna Navratil, Phil Shannon
 
 This software is licensed under the MIT license.
 
